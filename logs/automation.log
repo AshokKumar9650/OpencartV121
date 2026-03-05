@@ -1,0 +1,4 @@
+03:14:46.448 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Providing customer details *******
+03:14:47.921 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Expected Message *******
+03:14:50.818 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest Case *****
+03:14:53.736 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest Case *****
